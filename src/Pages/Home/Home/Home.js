@@ -4,6 +4,7 @@ import InfoCards from "../InfoCards/InfoCards";
 import MakeAppointment from "../MakeAppointment/MakeAppointment";
 import Services from "../Services/Services";
 import Testimonial from "../Testimonial/Testimonial";
+import Footer from "./Shared/Footer/Footer";
 
 const Home = () => {
   return (
